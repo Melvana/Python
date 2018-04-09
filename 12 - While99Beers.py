@@ -1,4 +1,4 @@
-#11 lines: Triple-quoted strings, while loop
+#Refrain is a reference over several lines, %d is a placemark for a number, fairly straightforward while loop.
 
 REFRAIN = '''
 %d bottles of beer on the wall,
